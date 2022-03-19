@@ -71,6 +71,7 @@ Example:
 Physical Monitor Layout: 
 - 2 (left)
 - 1 (right)
+
 Virtual VM Monitor Layout:
 - Virtual 2 bound to Physical 2
 - Virtual 1 bound to Physical 1
