@@ -1,0 +1,1 @@
+ShowVM.exe show --name MyUbuntu -v -d SW_SHOWMAXIMIZED -f
